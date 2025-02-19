@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! 👋
+My name is **Chakrit**.  
 
-<!--
-**CHAKRIT247/CHAKRIT247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ฉันชื่อ **CHAKRIT** และนี่คือพื้นที่ที่ฉันแบ่งปันโครงการและผลงานต่าง ๆ ของฉัน
 
-Here are some ideas to get you started:
+## เกี่ยวกับฉัน
+- 🌱 ฉันกำลังเรียนรู้เกี่ยวกับ Git, GitHub และการพัฒนาโปรแกรม
+- 💻 ฉันสนใจในด้านการเขียนโค้ดและเทคโนโลยี
+- 📫 คุณสามารถติดต่อฉันได้ทางอีเมล: chakritt2747@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## โครงการของฉัน
+- 
+
+## สถิติ GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAKRIT247&show_icons=true&theme=radical)
+
+## ทักษะ
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRIT247&layout=compact)
+
+---
+
+ขอบคุณที่แวะมาเยี่ยมชมโปรไฟล์ของฉัน! 😊
