@@ -17,7 +17,6 @@ My name is **Chakrit**.
 ## ทักษะ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRIT247&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAKRIT247&show_icons=true&theme=radical)
 ---
 
 ขอบคุณที่แวะมาเยี่ยมชมโปรไฟล์ของฉัน! 😊
